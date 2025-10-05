@@ -1,0 +1,14 @@
+INSERT INTO product (ID, NAME, DESCRIPTION, BRAND, PRICE, CATEGORY, RELEASE_DATE, PRODUCT_AVAILABLE, STOCK_QUANTITY)
+VALUES (1, 'Smartphone X', 'Latest model with AI features', 'TechNova', 69999.99, 'Electronics', '2025-09-15 00:00:00', TRUE, 150);
+
+INSERT INTO product (ID, NAME, DESCRIPTION, BRAND, PRICE, CATEGORY, RELEASE_DATE, PRODUCT_AVAILABLE, STOCK_QUANTITY)
+VALUES (2, 'EcoBottle', 'Reusable bamboo water bottle', 'GreenSip', 499.50, 'Home & Kitchen', '2025-07-01 00:00:00', TRUE, 500);
+
+INSERT INTO product (ID, NAME, DESCRIPTION, BRAND, PRICE, CATEGORY, RELEASE_DATE, PRODUCT_AVAILABLE, STOCK_QUANTITY)
+VALUES (3, 'Noise Cancelling Headphones', 'Deep bass over-ear headphones', 'SoundMax', 2999.00, 'Electronics', '2025-08-10 00:00:00', FALSE, 0);
+
+INSERT INTO product (ID, NAME, DESCRIPTION, BRAND, PRICE, CATEGORY, RELEASE_DATE, PRODUCT_AVAILABLE, STOCK_QUANTITY)
+VALUES (4, 'Yoga Mat Pro', 'Non-slip mat for advanced yoga', 'FlexFit', 1299.75, 'Fitness', '2025-06-20 00:00:00', TRUE, 200);
+
+INSERT INTO product (ID, NAME, DESCRIPTION, BRAND, PRICE, CATEGORY, RELEASE_DATE, PRODUCT_AVAILABLE, STOCK_QUANTITY)
+VALUES (5, 'Java Programming Book', 'Backend developer guide', 'CodeCraft', 899.00, 'Books', '2025-05-05 00:00:00', TRUE, 75);
